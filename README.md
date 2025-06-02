@@ -1,4 +1,10 @@
-<header>
+# 👋 Hi, I'm Felton Zachary
+
+I'm a former Engineering Technician with hands-on experience in automatic transmissions, recall engineering, and process optimization. After earning my ATRA certification (6R140) and spending time in technical diagnostics and system workflows, I discovered my passion for backend development.
+
+Currently, I'm transitioning into tech as a Python developer, learning through [Boot.dev](https://boot.dev) — a hands-on, backend-focused curriculum.
+
+...<header>
 
 <!--
   <<< Author notes: Course header >>>
