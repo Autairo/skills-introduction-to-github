@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Felton Zachary
+# 👋 Hi, I'm Felton Zackery
 
 I'm a former Engineering Technician with hands-on experience in automatic transmissions, recall engineering, and process optimization. After earning my ATRA certification (6R140) and spending time in technical diagnostics and system workflows, I discovered my passion for backend development.
 
